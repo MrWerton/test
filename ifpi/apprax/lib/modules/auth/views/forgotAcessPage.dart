@@ -17,7 +17,7 @@ class _ForgotAcessPageState extends State<ForgotAcessPage> {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Center(child: const Text("Hello! Welcome forgot acess page")),
+            Center(child: const Text("Hello! Welcome forgot Acess page")),
             ElevatedButton(
                 onPressed: () => Modular.to.navigate('/'),
                 child: const Text("SignIn"))
